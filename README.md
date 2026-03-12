@@ -6,8 +6,8 @@
 ## About This Project
 
 This is an independent bioinformatics project analysing the predicted 
-3D structures of heat stress transcription factors in two cereal crops 
-— rice (Oryza sativa) and wheat (Triticum aestivum).
+3D structures of heat stress transcription factors in three cereal crops 
+— rice (Oryza sativa) and wheat (Triticum aestivum), and maize (Zea mays).
 
 Heat stress transcription factors are proteins that help plants survive 
 high temperature conditions by switching on protective genes. 
@@ -93,6 +93,7 @@ Independent Bioinformatics Research Project — March 2026
 ```
 HeatStress_AlphaFold_Project/
 └── README.md   ← here
+
 
 
 

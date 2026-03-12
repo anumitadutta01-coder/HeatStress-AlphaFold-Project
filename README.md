@@ -23,6 +23,7 @@ agriculture.
 |---|---|---|
 | Heat Stress Transcription Factor A-6a | Oryza sativa (Rice) | Q657C0 |
 | Heat Shock Transcription Factor HsfA2-6 | Triticum aestivum (Wheat) | A0A7D5UPA7 |
+| Heat Stress Transcription Factor A-6b | Zea mays (Maize) | A0A1D6L3W5 |
 
 ---
 
@@ -45,6 +46,9 @@ agriculture.
 - Despite structural differences, both proteins share the same
   fundamental design — confirming conserved heat stress response
   across cereal crops
+- Maize protein shows unique two-domain architecture with
+  prominent beta sheets suggesting functional specialisation
+  and greater thermostability
 
 ---
 
@@ -55,10 +59,13 @@ HeatStress_AlphaFold_Project/
 ├── data/
 │   ├── Q657C0.pdb            # Rice protein structure
 │   └── A0A7D5UPA7.pdb        # Wheat protein structure
+│   └── A0A1D6L3W5.pdb           # Maize protein structure
 ├── results/
 │   ├── pymol_view.png        # Rice protein visualisation
 │   ├── wheat_pymol_view.png  # Wheat protein visualisation
 │   └── observations.txt      # Detailed observations and interpretation
+│   ├── maize_pymol_view.png     # Maize protein visualisation
+│   └── observations_report.md  # Detailed observations
 └── README.md
 ```
 
@@ -86,3 +93,6 @@ Independent Bioinformatics Research Project — March 2026
 ```
 HeatStress_AlphaFold_Project/
 └── README.md   ← here
+
+
+

@@ -84,7 +84,8 @@ Independent Bioinformatics Research Project — March 2026
 - Jumper, J., Evans, R., Pritzel, A. et al. Highly accurate protein structure prediction with AlphaFold. Nature 596, 583–589 (2021). https://doi.org/10.1038/s41586-021-03819-2.
 - [UniProt Consortium (2023) UniProt: the Universal Protein Database](https://www.uniprot.org)
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk)
-```
+
+
 
 
 

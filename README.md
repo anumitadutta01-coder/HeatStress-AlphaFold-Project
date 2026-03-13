@@ -86,13 +86,10 @@ Independent Bioinformatics Research Project — March 2026
   Nucleic Acids Research.
 - AlphaFold Protein Structure Database — alphafold.ebi.ac.uk
 ```
-
----
-
-**Now save this as README.md** in your main project folder:
 ```
 HeatStress_AlphaFold_Project/
 └── README.md   ← here
+
 
 
 
